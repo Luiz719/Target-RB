@@ -93,8 +93,8 @@ Complete o próximo elemento nas seguintes sequências:
 
 **f) 2, 10, 12, 16, 17, 18, 19, ____**
 
-- **Lógica**: Não há uma lógica clara. Parece ser uma sequência irregular.
-- **Próximo elemento**: Não é possível determinar com certeza, mas seguindo os últimos 4 números seria 20.
+- **Lógica**: Todos os números da sequência começam com a letra "D" quando escritos por extenso em português.
+- **Próximo elemento**: 200 (duzentos)
 
 ---
 
